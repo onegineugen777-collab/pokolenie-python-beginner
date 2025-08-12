@@ -82,5 +82,5 @@
 ## 📞 Контакты
 - **Email**: *onegineugen777@gmail.com*
 - **GitHub**: [onegineugen777-collab](https://github.com/onegineugen777-collab)
-- **Telegram / LinkedIn**: *SupaplexEVG*
+- **Telegram**: *SupaplexEVG*
 
